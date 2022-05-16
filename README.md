@@ -8,3 +8,4 @@
 
 - Why is this project paused?
   - I am engulfed in another project at the moment and I do not know why I wanted to embark on this project. However, this is a very amazing opportunity. Please let me know if you want to work on it together. 
+  - I apologize how raw (and bad) the scripts are. I wanted to push my first attempt because and not worry about how it looks at the moment.
