@@ -1,5 +1,5 @@
 - Goal
-  - Imagine a student searching for keywords (e.g. political violence) and all the professors who have political violence in their profile or research paper title includes a given keyword. 
+  - Imagine a student searching for keywords (e.g. political violence) and all the professors who have political violence in their profile (scraped from personal and university profile) and research paper title (scraped from google scholar) includes a given keyword. 
 - What is the problem? 
   - When a student (or, any individual) is looking for professors based on their research interest, they have to go through all the faculty list for each university.
 
